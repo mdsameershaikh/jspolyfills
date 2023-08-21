@@ -1,0 +1,20 @@
+{
+  "name": "jspolyfills",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Here will be using dependencies which are required in development envoirnment",
+  "main": "var.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsameershaikh/jspolyfills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsameershaikh/jspolyfills/issues"
+  },
+  "homepage": "https://github.com/mdsameershaikh/jspolyfills#readme"
+}
