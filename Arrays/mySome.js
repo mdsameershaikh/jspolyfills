@@ -1,4 +1,4 @@
-console.log('Bismillah');
+console.log('Bismillah')
 import * as importedDataVariables from '../var.js'
 if (!Array.prototype.mySome) {
     Array.prototype.mySome = function (callBackFn) {
